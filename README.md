@@ -4,7 +4,7 @@ using std::cpp 2023
 Presentation from Joaquín Mª López Muñoz at [using std::cpp 2023](https://eventos.uc3m.es/93418/detail/using-std-cpp-2023.html)
 and associated material.
 
-* [More than a rehash](XX) ([video](XX)):
+* [More than a rehash](https://github.com/joaquintides/usingstdcpp2023/raw/main/More%20than%20a%20rehash.pdf) (video not available yet):
 Boost 1.81 (Dec 2022) released `boost::unordered_flat_map`, a hashmap (unordered associative
 container in C++ parlance) that relies on open addressing and SIMD techniques to provide
 extremely high performance. In this talk, Joaquín will invite you to look under
