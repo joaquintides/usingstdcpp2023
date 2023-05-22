@@ -4,8 +4,9 @@ using std::cpp 2023
 Presentation from Joaquín Mª López Muñoz at [using std::cpp 2023](https://eventos.uc3m.es/93418/detail/using-std-cpp-2023.html)
 and associated material.
 
-[![Presentation video](https://img.youtube.com/vi/Rg8MZ5pJIJA/mqdefault.jpg)](https://youtu.be/Rg8MZ5pJIJA)
-
+<p align="center"><a href="[http://www.youtube.com/watch?feature=player_embedded&v=nTQUwghvy5Q](https://youtu.be/Rg8MZ5pJIJA)" target="_blank">
+ <img src="https://img.youtube.com/vi/Rg8MZ5pJIJA/mqdefault.jpg" alt="Presentation video" width="320" height="180"/>
+</a></p>
 
 * [More than a rehash](https://github.com/joaquintides/usingstdcpp2023/raw/main/More%20than%20a%20rehash.pdf):
 Boost 1.81 (Dec 2022) released `boost::unordered_flat_map`, a hashmap (unordered associative
