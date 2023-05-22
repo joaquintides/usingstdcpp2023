@@ -4,7 +4,7 @@ using std::cpp 2023
 Presentation from Joaquín Mª López Muñoz at [using std::cpp 2023](https://eventos.uc3m.es/93418/detail/using-std-cpp-2023.html)
 and associated material.
 
-<p align="center"><a href="[http://www.youtube.com/watch?feature=player_embedded&v=nTQUwghvy5Q](https://youtu.be/Rg8MZ5pJIJA)" target="_blank">
+<p align="center"><a href="https://youtu.be/Rg8MZ5pJIJA" target="_blank">
  <img src="https://img.youtube.com/vi/Rg8MZ5pJIJA/mqdefault.jpg" alt="Presentation video" width="320" height="180"/>
 </a></p>
 
